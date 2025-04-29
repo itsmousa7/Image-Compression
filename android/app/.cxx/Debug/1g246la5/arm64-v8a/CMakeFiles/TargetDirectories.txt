@@ -1,0 +1,2 @@
+D:/flutter_itams/imagecompress/android/app/.cxx/Debug/1g246la5/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/flutter_itams/imagecompress/android/app/.cxx/Debug/1g246la5/arm64-v8a/CMakeFiles/rebuild_cache.dir
