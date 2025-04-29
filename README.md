@@ -1,16 +1,34 @@
-# imagecompress
+# Image Compressor App
 
-A new Flutter project.
+A simple and intuitive Flutter application that allows users to upload an image, compress it to a specified quality, preview both the original and compressed images, and save the compressed image to the Downloads folder.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Upload Image**: Select JPG or PNG images from your device.
+- **Image Compression**: Compress images using a custom quality slider (10% - 100%).
+- **Live Preview**: View the original and compressed images side-by-side with interactive zoom and pan.
+- **File Size Comparison**: Displays the size of both images for comparison.
+- **Save to Downloads**: Save the compressed image to the system Downloads folder with one tap.
+- **Dark Mode**: Adapts to system-wide light/dark themes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) - Mobile UI framework
+- [file_picker](https://pub.dev/packages/file_picker) - Pick local files
+- [flutter_image_compress](https://pub.dev/packages/flutter_image_compress) - Image compression
+- [path_provider](https://pub.dev/packages/path_provider) - Access device directories
+- [dart:io](https://api.dart.dev/stable/dart-io/dart-io-library.html) - File I/O operations
+
+---
+
+## 📸 Screenshots
+
+[compress-images (2).zip](https://github.com/user-attachments/files/19957031/compress-images.2.zip)
+
+
+Made with ❤️ using Flutter
+
