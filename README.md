@@ -1,4 +1,4 @@
-# Image Compressor App
+# Image Compressor App!
 
 A simple and intuitive Flutter application that allows users to upload an image, compress it to a specified quality, preview both the original and compressed images, and save the compressed image to the Downloads folder.
 
@@ -31,6 +31,7 @@ A simple and intuitive Flutter application that allows users to upload an image,
 
 
 Made with ❤️ using Flutter
+
 
 
 
